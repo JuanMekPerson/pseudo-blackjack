@@ -1,2 +1,0 @@
-pip install IPython
-pip install PIL
