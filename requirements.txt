@@ -1,2 +1,2 @@
-IPython
-PIL
+pip install IPython
+pip install PIL
